@@ -1,0 +1,324 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.big_1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    cursor: pointer;
+}
+.nav_1{
+    font-size: 13px;
+}
+.img_1{
+    width: 120px;
+}
+.button{
+    border-radius: 60px;
+    width: 90px;
+    height: 25px;
+    background-color: white;
+    color: red;
+    border-color: red;
+    margin-left: 830px;
+    cursor: pointer;
+}
+.top{
+    display: flex;
+    gap: 30px;
+}
+.dig{
+    display: flex;
+    font-size: 10px;
+    gap: 10px;
+    margin-top: 20px;
+}
+.push{
+    padding-left: 280px;
+}
+.pull{
+    padding-left: 10px;
+}
+.enter{
+    padding-left: 10px;
+}
+.photo{
+    background-image: url(image/section1-image.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 100%;
+    padding-top: 490px;
+    padding-left: 1057px;
+}
+.buy{
+    background-color: red;
+    color: white;
+    border-color: red;
+    height: 30px;
+    width: 80px;
+}
+.boy_1{
+    background-color: whitesmoke;
+    background-size: 100%;
+    height: 500px;
+    padding-top: 40px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+.fifty{
+    padding-bottom: 10px;
+}
+.image{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.doctor{
+    background-color: white;
+    height: 400px;
+    width: 25%;
+    text-align: center;
+}
+.emma{
+display: flex;
+padding-right: 10px;
+gap: 10px;
+}
+.below{
+    font-weight: bold;
+}
+.audio{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.sixty{
+    width: 180px;
+    height: 250px;
+    padding-top: 60px;
+}
+.fom{
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.sect{
+    width: 300px;
+}
+.under{
+    font-weight: bold;
+    padding-top: 10px;
+}
+.just{
+    padding-top: 15px;
+}
+.john{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.three{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.line{
+    border-color: red;
+    width: 80px;
+    background-color: red;
+}
+.lane{
+    width: 80%;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    margin-left: 150px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.fan{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 30px;
+}
+.faja{
+    width: 150px;
+}
+.nobody{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.area{
+   padding-bottom: 150px;
+  text-align: center;
+  padding-top: 30px;
+}
+.down{
+    width: 200px;
+    height: 30px;
+    color: white;
+    background-color: red;
+    border-color: red;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.pics{
+    background-image: url(image/section6-image.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 200px;
+}
+.leader{
+    background-image: url(image/section7-image1.jpg);
+    background-repeat: no-repeat;
+    background-size: 320px;
+    height: 400px;
+    margin-left: 60px;
+    text-align: center;
+
+}
+.point{
+   display: flex;
+   gap: 40px;
+   justify-content: center; 
+   padding-bottom: 50px;
+}
+.activ{
+    font-weight: bold;
+    padding-left: 20px;
+}
+.small{
+    font-size: 15px;
+}
+.joe{
+    background-image: url(image/section7-image2.jpg);
+    background-size: 400px;
+    height: 208px;
+    background-repeat: no-repeat;
+    
+}
+.jie{
+    background-image: url(image/section7-image3.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    height: 250px;
+}
+.active{
+    font-weight: bold;
+}
+.clark{
+    width: 400px;
+    
+}
+.don{
+    display: flex;
+    gap: 400px;
+    justify-content: center;
+}
+.add{
+    width: 50px;
+    padding-top: 20px;
+    text-align: right;
+}
+.papa{
+    text-align: center;
+    padding-top: 30px;
+}
+.thing{
+    font-weight: bold;
+    font-size: 30px;
+}
+.say{
+    font-size: 13px;
+    color: gray;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.set{
+    width: 65px;
+    padding-left: 20px;
+}
+.bottle{
+    font-size: 10px;
+    color: gray;
+    padding-left: 20px;
+}
+.precious{
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    padding-bottom: 40px;
+}
+.trow{
+    color: grey;
+    padding-top: 20px;
+}
+.tro{
+    color: grey;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.bod{
+    font-weight: bold;
+}
+.much{
+    font-size: 12px;
+    color: gray;
+}
+.put{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.pink{
+    color: grey;
+    text-decoration: underline;
+}
+.background{
+    background-color: whitesmoke;
+    width: 100%;
+    padding-left: 30px;
+    height: 1500px;
+}
+.compute{
+    font-size: 9px;
+    color: grey;
+    text-align: center;
+    padding-top: 20px;
+}
+.jesus{
+    width: 89.6%;
+    color: lightgray;
+    margin-left: 65px;
+    margin-top: 15px;
+}
+.good{
+    color: black;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.allover{
+    color: grey;
+    font-size: 12px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.mail{
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 30px;
+}
+.storey{
+    display: flex;
+    gap: 400px;
+}
+
